@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "img": "https://cdn.pixabay.com/photo/2016/08/11/08/43/potatoes-1585060_960_720.jpg",
+    "name": "Potatos",
+    "type": "vegetable",
+    "price": 0.6,
+    "description": "Geltonos geros bulvės."
+  },
+  {
+    "id": 1,
+    "img": "https://cdn.pixabay.com/photo/2014/10/19/21/50/broccoli-494754__340.jpg",
+    "name": "Brokoli",
+    "type": "vegetable",
+    "price": 1.3,
+    "description": "Labai sveiki brokoliai."
+  },
+  {
+    "id": 2,
+    "img": "https://cdn.pixabay.com/photo/2016/10/17/15/08/ground-meat-1747910__340.jpg",
+    "name": "Minced meat",
+    "type": "meat",
+    "price": 2.5,
+    "description": "Šviežias Kiaulienos faršas."
+  },
+  {
+    "id": 3,
+    "img": "https://cdn.pixabay.com/photo/2016/02/14/10/39/chicken-1199243__340.jpg",
+    "name": "Chicken meat",
+    "type": "meat",
+    "price": 1.99,
+    "description": "Pilnai iškepta visa višta."
+  },
+  {
+    "id": 4,
+    "img": "https://cdn.pixabay.com/photo/2018/07/06/08/49/tomato-3520004__340.jpg",
+    "name": "Tomatos",
+    "type": "vegetable",
+    "price": 0.99,
+    "description": "Švieži ir gardus pamidorai."
+  },
+  {
+    "id": 5,
+    "img": "https://cdn.pixabay.com/photo/2016/03/05/20/07/salmon-1238662__340.jpg",
+    "name": "Salmon",
+    "type": "fish",
+    "price": 2.99,
+    "description": "Šaltai rukyta lašiša."
+  },
+  {
+    "id": 6,
+    "img": "https://cdn.pixabay.com/photo/2015/01/27/18/32/banana-614090__340.jpg",
+    "name": "Banana",
+    "type": "fruit",
+    "price": 1.29,
+    "description": "Saldus ir švieži bananai."
+  },
+  {
+    "id": 7,
+    "img": "https://cdn.pixabay.com/photo/2017/05/02/14/55/black-forest-ham-2278383__340.jpg",
+    "name": "Ham",
+    "type": "meat",
+    "price": 2.89,
+    "description": "Tiesiog kumpis."
+  }
+]
